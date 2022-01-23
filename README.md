@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanalloy&label=Profile%20views&color=0e75b6&style=flat" alt="dylanalloy" /> </p>
 
-- 🔭 I’m currently working on [MoonRobotics](https://moonrobo.com)
+- 🔭 I’m currently working on [MoonRobotics](https://moonrobo.com) & as a full-time software engineer at a Fortune-100 company.
 
 - 🌱 I’m currently learning **about quantum computing and devops pipelines**
 
