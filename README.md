@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dylan</h1>
-<h3 align="center">Programmer and machine learning researcher.</h3>
+<h3 align="center">Soon-to-be husband, programmer and machine learning researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanalloy&label=Profile%20views&color=0e75b6&style=flat" alt="dylanalloy" /> </p>
 
