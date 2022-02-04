@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MoonRobotics](https://moonrobo.com) & as a full-time software engineer at a Fortune-100 company.
 
-- 🌱 I’m currently learning **about quantum computing and devops pipelines**
+- 🌱 I’m currently learning **about distributed computing and devops pipelines**
 
 - 👯 I’m looking to collaborate on **AR & VR experiences**
 
