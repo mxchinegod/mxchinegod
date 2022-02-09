@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Dylan</h1>
-<h3 align="center">Soon-to-be husband, programmer, and machine learning researcher.</h3>
+<h3 align="center">Soon-to-be-husband, programmer, and machine learning researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanalloy&label=Profile%20views&color=0e75b6&style=flat" alt="dylanalloy" /> </p>
 
-- 🔭 I’m currently working on [MoonRobotics](https://moonrobo.com) & as a full-time software engineer at a Fortune-100 company.
+- 🔭 I’m currently working on [Kraken Software](https://krknsoftware.com) & as a full-time software engineer at a Fortune-100 company.
 
 - 🌱 I’m currently learning **about distributed computing and devops pipelines**
 
