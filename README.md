@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Digits]([https://dgtsapp.com](https://github.com/DylanAlloy/digits)) & as a full-time software engineer at a Fortune-100 company.
 
-- 🌱 I’m currently learning about **distributed LLMs & using embeddings in design**
+- 🌱 I’m currently learning about **distributed LLMs & embeddings**
 
 - 👯 I’m looking to collaborate on **training models using blockchain**
 
