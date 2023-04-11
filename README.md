@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Digits]([https://dgtsapp.com](https://github.com/DylanAlloy/digits)) & as a full-time software engineer at a Fortune-100 company.
 
-- 🌱 I’m currently learning **about distributed computing and devops pipelines**
+- 🌱 I’m currently learning **about distributed LLMs & using embeddings in design**
 
-- 👯 I’m looking to collaborate on **AR & VR experiences**
+- 👯 I’m looking to collaborate on **training models using blockchain**
 
 - 🤝 I’m looking for help with **3D printing & CAD**
 
