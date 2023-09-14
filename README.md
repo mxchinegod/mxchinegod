@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **distributed LLMs & embeddings**
 
-- 👯 I’m looking to collaborate on **training models using blockchain**
+- 👯 I’m looking to collaborate on **sharing training data using blockchains**
 
 - 🤝 I’m looking for help with **3D printing & CAD**
 
