@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanalloy&label=Profile%20views&color=0e75b6&style=flat" alt="dylanalloy" /> </p>
 
-- 🔭 I’m currently working on [Digits]([https://dgtsapp.com](https://github.com/DylanAlloy/digits)) & as a full-time software engineer at a Fortune-100 company.
+- 🔭 I’m currently occupied making real time data pipelines at the edge for energy extraction.
 
 - 🌱 I’m currently learning about **distributed LLMs & embeddings**
 
